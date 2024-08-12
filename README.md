@@ -14,6 +14,7 @@ A web application for creating and managing solana spl tokens.
 3. Run `pnpm install`
 4. Start with `pnpm run dev`
 5. Open `http://localhost:3000`
+6. Make sure the network on your wallet is devnet before using the app.
 
 ## Technologies
 
